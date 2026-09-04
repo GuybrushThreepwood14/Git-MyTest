@@ -6,4 +6,8 @@ def testAdd():
     c = a + b
     return True
 
+def testAdd2():
+    return True
+
+
 
