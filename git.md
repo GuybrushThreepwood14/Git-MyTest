@@ -218,8 +218,7 @@ git log --oneline
 git log --oneline --graph --all
 ```
 
----
-
+-------
 # Voir les différences
 
 ## Modifications non staged
