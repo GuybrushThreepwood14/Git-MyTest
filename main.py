@@ -30,3 +30,11 @@ To complete this level, check out the parent commit of bugFix. This will detach 
 
 You can specify the hash if you want, but try using relative refs instead!"""
 
+     
+
+
+"""
+To complete this level, check out the parent commit of bugFix. This will detach HEAD.
+
+You can specify the hash if you want, but try using relative refs instead!"""
+
