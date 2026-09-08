@@ -19,7 +19,7 @@ def correctionsmain():
 def patch():
     return True
 
-#comment
+#commentaire
 def unstablefunction():
     return False
      
