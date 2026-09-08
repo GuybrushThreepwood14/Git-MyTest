@@ -12,4 +12,7 @@ def testAdd2():
 def bbbbv():
     return True
 
+def new():
+    return True
+
 
