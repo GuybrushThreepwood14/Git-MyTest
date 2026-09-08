@@ -349,7 +349,7 @@ Une fois le conflit résolu :
 git add .
 git commit
 ```
-
+ssss
 ---
 
 # Cherry-pick
