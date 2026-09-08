@@ -17,7 +17,13 @@ def bbbbv():
 def patch():
     return True
 
+def patch1():
+    return True
+
 def patch2():
+    return True
+
+def patch3():
     return True
 
 
