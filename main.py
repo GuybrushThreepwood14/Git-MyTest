@@ -22,6 +22,11 @@ def patch():
 #commentaire
 def unstablefunction():
     return False
+
+def stash():
+    return True
+
+    
      
 
 

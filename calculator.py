@@ -39,4 +39,6 @@ def calculatrice():
         print("Option invalide.")
 
 
-
+def sss():
+    return True
+    
