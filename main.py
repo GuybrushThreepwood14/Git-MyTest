@@ -23,6 +23,7 @@ def patch4():
     return True
 
 def patch2():
+    print("hello")
     return True
 
 def patch3():
